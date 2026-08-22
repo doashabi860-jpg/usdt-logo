@@ -1,0 +1,9 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "contract": "TPHjxcwuDiAJtnySMo99ou7Rbqo8cqVhsh",
+  "logo": "https://raw.githubusercontent.com/doashabi860-jpg/usdt-logo/main/assets/trc20/TPHjxcwuDiAJtnySMo99ou7Rbqo8cqVhsh/logo.png",
+  "decimals": 6,
+  "chain": "TRON",
+  "type": "TRC20"
+}
